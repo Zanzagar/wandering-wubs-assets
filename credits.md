@@ -1,0 +1,22 @@
+# Credits
+
+- **Design:** Corey for Wandering Wubs.
+- **Presented by:** Wandering Wubs (@wanderingwubs) × AṢṬAMA (@ashtama.sc). The AṢṬAMA symbol and icon are their supplied SVGs, used unaltered.
+- **Artists (equal billing, listed alphabetically):**
+  - Big B (@xbp_370), Uptempo
+  - DAZ (@alex.okenczyc), Techno
+  - deaddiscosociety (@deaddiscosociety), Disco House
+  - Dubbletake (@dubbletakeofficial), House / Dubstep
+  - joltz (@joltzmusic), House / UKG / Dubstep
+  - yungz (@itsyungz), House / Dubstep
+  - Zanzagar (@zanzagar.earth), Deep Dubstep / 140
+- **DJ logos:** each logo belongs to its artist. They were converted to one ink for this flyer.
+  - joltz is a stopgap retrace; Corey has asked the artist for a better file.
+  - The yungz mark is new for this flyer and still needs his approval.
+- **Illustration:** the castle, bats, lightning and crumbling pieces are original vector art drawn for this project.
+- **Photography:** none used. No photographer to credit.
+- **Fonts:** all under the SIL OFL 1.1.
+  - Big Shoulders and Big Shoulders Stencil, by Patric King.
+  - Courier Prime, by Alan Dague-Greene.
+  - Archivo, by Omnibus-Type (AṢṬAMA wordmark).
+  - Syne, by Bonjour Monde (yungz mark).

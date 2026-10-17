@@ -1,0 +1,9 @@
+# Alt text (one sentence each, no address)
+
+- **Flyer-Toxic-Fog-feed-1080x1350.10PM.png:** A purple castle crumbling on a hill under cyan lightning, with Summit After Dark in cyan stencil type and the logos of Big B, DAZ, deaddiscosociety, Dubbletake, joltz, yungz and Zanzagar on the hillside, for Wandering Wubs and AṢṬAMA's Halloween rave on Fri Oct 30 from 10PM, $5, 18+, DM for address.
+- **Flyer-Toxic-Fog-feed-1080x1350.9PM.png:** A purple castle crumbling on a hill under cyan lightning, with Summit After Dark in cyan stencil type and the logos of Big B, DAZ, deaddiscosociety, Dubbletake, joltz, yungz and Zanzagar on the hillside, for Wandering Wubs and AṢṬAMA's Halloween rave on Fri Oct 30 from 9PM, $5, 18+, DM for address.
+- **Flyer-Toxic-Fog-story-1080x1920.10PM.png:** The story version of the Toxic Fog flyer, with the same crumbling purple castle, cyan lightning and seven DJ logos (Big B, DAZ, deaddiscosociety, Dubbletake, joltz, yungz, Zanzagar), announcing Summit After Dark on Fri Oct 30 from 10PM, $5, 18+, DM for address.
+- **Flyer-Toxic-Fog-story-1080x1920.9PM.png:** The story version of the Toxic Fog flyer, with the same crumbling purple castle, cyan lightning and seven DJ logos (Big B, DAZ, deaddiscosociety, Dubbletake, joltz, yungz, Zanzagar), announcing Summit After Dark on Fri Oct 30 from 9PM, $5, 18+, DM for address.
+- **Flyer-Blood-Moon-1080x1350.png:** A black crumbling castle on a hill against a huge magenta moon with bats, announcing Wandering Wubs' Summit After Dark Halloween rave on Fri Oct 30 from 10PM, lineup TBA, DM for address.
+- **Flyer-Afters-Pass-1080x1350 (placeholder):** An orange ticket-style afters pass for Summit After Dark, with a black castle under a purple sky. Do not post it; the lineup is still dummy text.
+- **Flyer-Pumpkin-Riso-1080x1350 (retired):** An orange-and-black riso-style flyer with a castle inside an orange moon. Not for posting.
